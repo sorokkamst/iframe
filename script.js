@@ -1,4 +1,3 @@
-// Будет передан url pathname
 window.addEventListener('message', changeLocation);
 
 function changeLocation(e) {
